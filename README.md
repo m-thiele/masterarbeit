@@ -23,7 +23,7 @@ Run the files by using
 ```
 python cahn_hilliard_willmore.py 
 ```
-except for `residum.py`, which only conatains mehtods.
+except for `residum.py`, which only contains mehtods.
 
 | filename |  description |
 |--------------|-----------|
