@@ -19,6 +19,11 @@ pip install imageio-ffmpeg
 
 
 ## Running
+Run the files by using
+```
+python cahn_hilliard_willmore.py 
+```
+except for `residum.py`, which only conatains mehtods.
 
 | filename |  description |
 |--------------|-----------|
